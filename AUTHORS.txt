@@ -1,0 +1,6 @@
+# This file lists all individuals having contributed content to the repository.
+# For how it is generated, see `hack/generate-authors.sh`.
+
+
+Betel Addisu <beteladdisu09@gmail.com>
+Yos Zewdu <yoszed22@gmail.com>
